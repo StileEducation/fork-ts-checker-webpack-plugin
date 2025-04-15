@@ -2,7 +2,8 @@
 *.log
 
 # Package artifacts
-lib
+# STILE: Not ignored in v6-rethrow-oom-error branch because we want to use this branch like an npm package
+# lib
 
 # Package archive used by e2e tests
 fork-ts-checker-webpack-plugin-0.0.0-semantic-release.tgz
